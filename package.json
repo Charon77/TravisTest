@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Charon77/TravisTest/issues"
   },
-  "homepage": "https://github.com/Charon77/TravisTest#readme"
+  "homepage": "https://github.com/Charon77/TravisTest#readme",
+  "dependencies": {
+    "bitcoincharts-promise": "^1.0.10",
+    "request": "^2.81.0"
+  }
 }
