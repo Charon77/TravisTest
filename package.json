@@ -4,7 +4,7 @@
   "description": "Testing for Travis",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js >> NUL && standard"
   },
   "repository": {
     "type": "git",
