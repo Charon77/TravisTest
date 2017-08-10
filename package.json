@@ -19,5 +19,8 @@
   "dependencies": {
     "bitcoincharts-promise": "^1.0.10",
     "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
   }
 }
